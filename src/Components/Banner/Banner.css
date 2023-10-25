@@ -1,0 +1,39 @@
+.Banner{
+    background-size: cover;
+    height:500px;
+    color: white;
+}
+.content{
+    margin-left: 20px;
+    padding-top: 75px;
+}
+.buttons{
+    padding-top: 20px;    
+}
+.button{
+    margin: 5px;
+    padding: 10px;
+    font-weight: 700;
+    background-color: rgb(196, 186, 186);
+    color: white;
+    margin-left: 20px;
+    border: none;
+    outline: none;
+    border-radius: 0.4rem;
+    cursor: pointer;
+}
+.description{
+    padding-top: 20px;
+    max-height: 50px;
+    max-width: 400px;
+    line-height: 25px;
+    font-size:medium;
+}
+.button:hover{
+color: black;
+background-color: #e6e6e6;
+}
+.fade{
+    background: linear-gradient(180deg,transparent,#000000);
+    height: 250px;
+}
